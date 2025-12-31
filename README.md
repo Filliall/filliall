@@ -34,24 +34,6 @@ Developer fullstack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filliall&show_icons=true&theme=radical)
 --- 
-<!--
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=filliall)](https://github.com/fillial/github-profile-trophy)
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/filliall/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
--->
 
 
 
@@ -69,16 +51,7 @@ Developer fullstack
 
 
 
-
-
-
-
-
-
-
-
-
-fc k <iframe/>
+<iframe/>
 
 
 
