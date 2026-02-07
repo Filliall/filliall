@@ -5,7 +5,7 @@ Developer fullstack
 
 
 <h3>🛠 Tech Stack</h3>
-
+- WINDOWS 11 | DEBIAN TRIXIE
 - 💻 &nbsp; C# | Php | Java | GO | RUST
 - 🌐 &nbsp; Android | IOS | HTML | CSS | JavaScript | Bootstrap | Angular | Blazor | REACT
 - 🛢 &nbsp; MySQL | Sql Server | SQLite | ORACLE | POSTGRES | MONBODB |
